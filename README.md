@@ -1,7 +1,7 @@
 # A Collection of my Favorite Wallpapers
 
 Wallpaper Categories
-- [Aesthetic](https://github.com/amv2/Wallpapers/tree/master/Aesthetic)
+- [Aesthetic](https://github.com/amv2/Wallpapers/tree/master/Aesthetic#readme)
 - [Anime](https://github.com/amv2/Wallpapers/tree/master/Anime)
 - [Film](https://github.com/amv2/Wallpapers/tree/master/Film)
 - [Landscape](https://github.com/amv2/Wallpapers/tree/master/Landscape)
