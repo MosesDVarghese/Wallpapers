@@ -3,9 +3,11 @@
 Wallpaper Categories
 - Aesthetic
 - Anime
+- Film
 - Landscape
-- MacOS
-- Space
+- OS
 - Other
+- People
+- Space
 
 Note: I don't own these wallpapers, I have only modified their names and collected them into one place. If you are the owner of a wallpaper and would like it removed please let me know.
