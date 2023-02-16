@@ -1,6 +1,6 @@
 # A Collection of my Favorite Wallpapers
 
-Wallpaper Categories
+Wallpaper Categories. Click on them to see previews (work in progress)
 - [Aesthetic](https://github.com/amv2/Wallpapers/tree/master/Aesthetic#readme)
 - [Anime](https://github.com/amv2/Wallpapers/tree/master/Anime)
 - [Film](https://github.com/amv2/Wallpapers/tree/master/Film)
