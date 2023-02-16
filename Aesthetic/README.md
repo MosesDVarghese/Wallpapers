@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD026 -->
 
-# wallpapers
+# Aesthetic Wallpapers
 
 ## ./00011.png
 
