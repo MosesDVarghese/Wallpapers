@@ -1,13 +1,11 @@
-# A Collection of my Favorite Wallpapers
+# Stash of Wallpapers
 
 Wallpaper Categories. Click on them to see previews (work in progress)
-- [Aesthetic](https://github.com/amv2/Wallpapers/tree/master/Aesthetic#readme)
-- [Anime](https://github.com/amv2/Wallpapers/tree/master/Anime)
-- [Film](https://github.com/amv2/Wallpapers/tree/master/Film)
-- [Landscape](https://github.com/amv2/Wallpapers/tree/master/Landscape)
-- [OS](https://github.com/amv2/Wallpapers/tree/master/OS)
-- [Other](https://github.com/amv2/Wallpapers/tree/master/Other)
-- [People](https://github.com/amv2/Wallpapers/tree/master/People)
-- [Space](https://github.com/amv2/Wallpapers/tree/master/Space)
-
-Note: I don't own these wallpapers, I have only modified their names and collected them into one place. If you are the owner of a wallpaper and would like it removed please let me know.
+- [Aesthetic](https://github.com/MosesDVarghese/Wallpapers/tree/master/Aesthetic#readme)
+- [Anime](https://github.com/MosesDVarghese/Wallpapers/tree/master/Anime)
+- [Film](https://github.com/MosesDVarghese/Wallpapers/tree/master/Film)
+- [Landscape](https://github.com/MosesDVarghese/Wallpapers/tree/master/Landscape)
+- [OS](https://github.com/MosesDVarghese/Wallpapers/tree/master/OS)
+- [Other](https://github.com/MosesDVarghese/Wallpapers/tree/master/Other)
+- [People](https://github.com/MosesDVarghese/Wallpapers/tree/master/People)
+- [Space](https://github.com/MosesDVarghese/Wallpapers/tree/master/Space)
